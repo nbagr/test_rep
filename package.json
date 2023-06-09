@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nbagr/test_rep/issues"
   },
-  "homepage": "https://github.com/nbagr/test_rep#readme"
+  "homepage": "https://github.com/nbagr/test_rep#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
